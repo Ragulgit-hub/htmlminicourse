@@ -1,9 +1,9 @@
 h1{
-    color:rgb(249, 72, 7);
-    font:Arial, sans-serif;
-    text-align: center;
+    color: blue;
+    font: arial, sans-serif;
+    text-align:center;
 }
 p{
-    color:black
+    color: black
     font-size 20px;
 }
